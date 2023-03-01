@@ -73,7 +73,7 @@ def removerPecas():# funcao de remover pecas vai capturar o codigo da peca que s
 
 
 
-print('Bem vindo ao programa de controle de estoque da Bicicletaria do Carlos Eduardo Silva De Oliveira')# identificador
+print('Bem vindo ao programa de controle de estoque da Bicicletaria do Carlos Eduardo Silva De Oliveira')
 registroDePecas = 0
 while True:
   try:
